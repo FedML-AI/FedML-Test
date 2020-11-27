@@ -2,7 +2,7 @@ import pytest
 
 import torch
 
-from fedml_api.standalone.fedavg.optrepo import OptRepo
+from FedML.fedml_api.standalone.fedavg.optrepo import OptRepo
 
 
 class TestOptRepo:
